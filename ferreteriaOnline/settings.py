@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-9zhj=16t@hkr%46$2gga(zm*7x$#zcou&2(c^o^=$)ki49&_o0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ferreteriapweb2.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['ferreteriamisti.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
